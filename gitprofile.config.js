@@ -101,30 +101,8 @@ const config = {
       companyLink: 'http://www.masterprovider.com.pe/',
     },
   ],
-  /* certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
-    },
-  ], */
-  education: [
-    {
-      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
-      degree: 'Engineer in Computer and Systems Engineering',
-      from: '2018',
-      to: '2019',
-    },
-    {
-      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
-      degree: 'Bachelor in Computer and Systems Engineering',
-      from: '2010',
-      to: '2016',
-    },
-  ],
-
-  // To hide the `My Projects` section, keep it empty.
+  
+   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'Telefónica',
@@ -155,6 +133,29 @@ const config = {
       link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],
+  /* certifications: [
+    {
+      name: 'Lorem ipsum',
+      body: 'Lorem ipsum dolor sit amet',
+      year: 'March 2022',
+      link: 'https://example.com'
+    },
+  ], */
+  education: [
+    {
+      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
+      degree: 'Engineer in Computer and Systems Engineering',
+      from: '2018',
+      to: '2019',
+    },
+    {
+      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
+      degree: 'Bachelor in Computer and Systems Engineering',
+      from: '2010',
+      to: '2016',
+    },
+  ],
+
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev

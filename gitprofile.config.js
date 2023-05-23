@@ -108,28 +108,28 @@ const config = {
       title: 'Telefónica',
       description:
         'Esta plataforma interna de ventas es una solución digital que permite la gestion de productos de telefonía como Portabilidad, Cambio de Plan, Cambio de Equipo, Duos, Trios y otros.',
-      imageUrl: 'https://static-s.aa-cdn.net/img/gp/20600007542461/B-s53ScPibeZq2X-ItHknmQPi284qUeqn5D_Y_V3QWf6Zbl8PCfL9D6J_DQyGCQGpVo?v=1',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Telefonica.png',
       link: 'https://www.telefonica.com/es/',
     },
     {
       title: 'Tersus Max',
       description:
         'Plataforma integral para el manejo de dispositivos hardware, dispositivos de desinfección con radiación ultravioleta Tipo C (UVC).',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/TersusMax.png',
       link: 'https://example.com',
     },
     {
       title: 'Me Apunto',
       description:
         'Plataforma social para que descubras los mejores centros de vida nocturna, actividades referente a cultura y las mejores promociones de tu ciudad.',
-      imageUrl: 'https://drive.google.com/file/d/1P6gnLjgLo452RVXd5VYCBAx0Hwb_CPt0/view?usp=sharing',
-      link: 'https://www.facebook.com/MeApuntoQBB',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/MeApunto.png',
+      link: 'https://www.youtube.com/watch?v=mEJCUNRvAiA&t=10s',
     },
     {
       title: 'AgrumSoft',
       description:
         'Plataforma de Biotrazabilidad TIC-GPS para los cultivos agrícolas de café y recursos silvestres.',
-      imageUrl: 'https://pbs.twimg.com/profile_images/875467286731137024/Ghu23Tqg_400x400.jpg',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Agrumsoft.jpeg',
       link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],

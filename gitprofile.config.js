@@ -2,65 +2,103 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'fahedhermoza', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 4, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['PerfilDeveloper', 'Principios-SOLID', 'Escribiendo-Readme.md', 'DevFest-Arequipa-2019'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    facebook: '',
-    instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
-    skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'fahedhermoza',
+    twitter: 'FahedHermoza',
+    //mastodon: 'arifszn@mastodon.social',
+    facebook: 'fahedhermoza',
+    //instagram: '',
+    //dribbble: '',
+    //behance: '',
+    medium: 'fahedhermoza',
+    //dev: 'arifszn',
+    stackoverflow: '6254339/fahed-hermoza', // format: userid/username
+    //skype: '',
+    //telegram: '',
+    //website: 'https://arifszn.com',
+    //phone: '',
+    //email: 'arifulalamszn@gmail.com',
   },
-  resume: {
+  /*resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  },*/
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Android',
+    'Kotlin',
+    'Java',
+    'Koin',
+    'Coroutines',
+    'Room',
+    'SQLite',
+    'Navigation',
+    'MVVM',
+    'MVC',
+    'MVP',
+    'Clean Architecture',
+    'Architecture pattern',
+    'Design pattern',
+    'Android Architecture',
+    'Git Flow'
+
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'NTT DATA',
+      position: 'Android Engineer',
+      from: 'May 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.nttdata.com/global/en/about-us',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'PERU APPS',
+      position: 'Android Developer',
+      from: 'Aug 2020',
+      to: 'Nov 2020',
+      companyLink: 'https://www.peruapps.com.pe/',
+    },
+    {
+      company: 'CHUNGHAEMARU PERÚ',
+      position: 'Android Developer',
+      from: 'Apr 2020',
+      to: 'Aug 2020',
+      companyLink: 'https://biotraceperu.com/',
+    },
+    {
+      company: 'MASTER PROVIDER',
+      position: 'Android Lead',
+      from: 'Nov 2019',
+      to: 'Mar 2020',
+      companyLink: 'http://www.masterprovider.com.pe/',
+    },
+    {
+      company: 'JAVA FOR SMART INFORMATION TECHNOLOGIES',
+      position: 'Android Developer',
+      from: 'May 2019',
+      to: 'Oct 2019',
+      companyLink: 'http://www.masterprovider.com.pe/',
+    },
+    {
+      company: 'CHUNGHAEMARU PERÚ',
+      position: 'Android Developer',
+      from: 'Jun 2016',
+      to: 'May 2018',
+      companyLink: 'https://biotraceperu.com/',
+    },
+    {
+      company: 'JAVA FOR SMART INFORMATION TECHNOLOGIES',
+      position: 'Android Developer',
+      from: 'Jun 2015',
+      to: 'Jun 2016',
+      companyLink: 'http://www.masterprovider.com.pe/',
     },
   ],
   /* certifications: [
@@ -73,41 +111,55 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
+      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
+      degree: 'Engineer in Computer and Systems Engineering',
+      from: '2018',
       to: '2019',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universidad Nacional de San Antonio Abad del Cusco',
+      degree: 'Bachelor in Computer and Systems Engineering',
+      from: '2010',
+      to: '2016',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Telefónica',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Esta plataforma interna de ventas es una solución digital que permite la gestion de productos de telefonía como Portabilidad, Cambio de Plan, Cambio de Equipo, Duos, Trios y otros.',
+      imageUrl: 'https://static-s.aa-cdn.net/img/gp/20600007542461/B-s53ScPibeZq2X-ItHknmQPi284qUeqn5D_Y_V3QWf6Zbl8PCfL9D6J_DQyGCQGpVo?v=1',
+      link: 'https://www.telefonica.com/es/',
+    },
+    {
+      title: 'Tersus Max',
+      description:
+        'Plataforma integral para el manejo de dispositivos hardware, dispositivos de desinfección con radiación ultravioleta Tipo C (UVC).',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Me Apunto',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Plataforma social para que descubras los mejores centros de vida nocturna, actividades referente a cultura y las mejores promociones de tu ciudad.',
+      imageUrl: 'https://drive.google.com/file/d/1P6gnLjgLo452RVXd5VYCBAx0Hwb_CPt0/view?usp=sharing',
+      link: 'https://www.facebook.com/MeApuntoQBB',
+    },
+    {
+      title: 'AgrumSoft',
+      description:
+        'Plataforma de Biotrazabilidad TIC-GPS para los cultivos agrícolas de café y recursos silvestres.',
+      imageUrl: 'https://pbs.twimg.com/profile_images/875467286731137024/Ghu23Tqg_400x400.jpg',
+      link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    source: 'medium', // medium | dev
+    username: 'fahedhermoza', // to hide blog section, keep it empty
+    limit: 6, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX

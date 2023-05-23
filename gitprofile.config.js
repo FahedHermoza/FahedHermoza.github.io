@@ -133,14 +133,20 @@ const config = {
       link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Arquitectura Android en el mundo real',
+      body: 'GDG Cusco',
+      year: ' May 2023',
       link: 'https://example.com'
     },
-  ], */
+    {
+      name: 'Arquitectura basada en Flow',
+      body: 'Android Dev Perú',
+      year: ' May 2021',
+      link: 'https://example.com'
+    },
+  ], 
   education: [
     {
       institution: 'Universidad Nacional de San Antonio Abad del Cusco',

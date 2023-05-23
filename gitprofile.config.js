@@ -108,28 +108,28 @@ const config = {
       title: 'Telefónica',
       description:
         'Esta plataforma interna de ventas es una solución digital que permite la gestion de productos de telefonía como Portabilidad, Cambio de Plan, Cambio de Equipo, Duos, Trios y otros.',
-      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Telefonica.png',
+      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/334800083_1912078639129277_4729320157245154002_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WywAryAHOD8AX8Y32PN&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCo0HgoGeXOciJXc1VYWxy7HqUCXPmSMSkI4ewFawEp0Q&oe=6471B5D5',
       link: 'https://www.telefonica.com/es/',
     },
     {
       title: 'Tersus Max',
       description:
         'Plataforma integral para el manejo de dispositivos hardware, dispositivos de desinfección con radiación ultravioleta Tipo C (UVC).',
-      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/TersusMax.png',
-      link: 'https://example.com',
+      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/305618931_763031298485103_8808852869023024564_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TnDOjH1JEcsAX_N7mv9&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCqex4vtpvMfcyWEOCmWcpWOlymwumYwVu9e1W6yJ5vtw&oe=6472F272',
+      link: 'https://www.youtube.com/watch?v=fLEQ9DDHzsM',
     },
     {
       title: 'Me Apunto',
       description:
         'Plataforma social para que descubras los mejores centros de vida nocturna, actividades referente a cultura y las mejores promociones de tu ciudad.',
-      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/MeApunto.png',
-      link: 'https://www.youtube.com/watch?v=mEJCUNRvAiA&t=10s',
+      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/304793558_490585419736166_3110784093909720694_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=q7LROq7A5vQAX-Nh1kZ&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCqnQlUE10ltgrmK3iZc_lJqQPbaPq0tTfH6ldzpeX2Aw&oe=6472FE82',
+      link: 'https://www.youtube.com/watch?v=mEJCUNRvAiA&t=14s',
     },
     {
       title: 'AgrumSoft',
       description:
         'Plataforma de Biotrazabilidad TIC-GPS para los cultivos agrícolas de café y recursos silvestres.',
-      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Agrumsoft.jpeg',
+      imageUrl: 'https://pbs.twimg.com/profile_images/875467286731137024/Ghu23Tqg_400x400.jpg',
       link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],

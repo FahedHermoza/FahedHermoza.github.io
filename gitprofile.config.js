@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'fahedhermoza',
-    twitter: 'FahedHermoza',
+    //twitter: 'FahedHermoza',
     //mastodon: 'arifszn@mastodon.social',
     facebook: 'fahedhermoza',
     //instagram: '',
@@ -20,7 +20,7 @@ const config = {
     //behance: '',
     medium: 'fahedhermoza',
     //dev: 'arifszn',
-    stackoverflow: '6254339/fahed-hermoza', // format: userid/username
+    //stackoverflow: '6254339/fahed-hermoza', // format: userid/username
     //skype: '',
     //telegram: '',
     //website: 'https://arifszn.com',
@@ -170,7 +170,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'lemonade',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode

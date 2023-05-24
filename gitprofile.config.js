@@ -137,14 +137,50 @@ const config = {
     {
       name: 'Arquitectura Android en el mundo real',
       body: 'GDG Cusco',
-      year: ' May 2023',
-      link: 'https://example.com'
+      year: 'May 2023',
+      link: 'https://www.facebook.com/fahed19/posts/pfbid026icEiE55pipHx4VKXNmb8d5tpQc3nJcaAPWoQSJHjgErMdkBvMSvE6UcHv9JBYf6l'
     },
     {
       name: 'Arquitectura basada en Flow',
       body: 'Android Dev Perú',
-      year: ' May 2021',
-      link: 'https://example.com'
+      year: 'May 2021',
+      link: 'https://youtu.be/4gctqbyKpNA'
+    },
+    {
+      name: 'Patrones de Arquitectura en Android',
+      body: 'Smart Cities Perú, GDG Cusco',
+      year: 'Feb 2020',
+      link: 'https://www.facebook.com/fahed19/posts/pfbid02qbDJMXzU2iSwWxaSupVFijMt3SpDeNzYtybNyaesjPxU6iSmbe6wbPj1G7Afq5czl'
+    },
+    {
+      name: 'Construyendo base de datos con Room',
+      body: 'Dev Fest Arequipa',
+      year: 'Nov 2019',
+      link: 'https://www.facebook.com/fahed19/posts/pfbid0eTzzDPv8emAbEnGnCAHUe3RF2ajLMZxxL7yrkVa1FWYkSASk8Z75WTkjrNmkKpDkl'
+    },
+    {
+      name: 'Migrando apps Android de Java a Kotlin',
+      body: 'Dev Fest Cusco',
+      year: 'Oct 2019',
+      link: 'https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2505608196141045/'
+    },
+    {
+      name: 'Metodología de desarrollo Ágil utilizando Scrum y Kanban',
+      body: 'GDG Cusco',
+      year: 'Mar 2019',
+      link: 'https://www.facebook.com/gdgcusco/posts/pfbid02JnkhsXgDbecNrva8F4CoD1B4KRYPrj5ABogPf6QUBGeJoYPc3nE28TP1dUd9Fp27l'
+    },
+    {
+      name: 'Importancia de las aplicaciones móviles en la región del Cusco',
+      body: 'Flisol Cusco',
+      year: 'Mar 2018',
+      link: 'https://www.facebook.com/fahedhermoza/posts/pfbid0c4sEXCPFurPktytRB3G7x6WaiuV6sQUViJs5rnEX26L11MqWWwUesHjw9Az7ZZ61l'
+    },
+    {
+      name: 'APIs Underprotected',
+      body: 'OWASP Cusco',
+      year: 'Dec 2017',
+      link: 'https://www.facebook.com/fahedhermoza/posts/pfbid0c4sEXCPFurPktytRB3G7x6WaiuV6sQUViJs5rnEX26L11MqWWwUesHjw9Az7ZZ61l'
     },
   ], 
   education: [

@@ -21,7 +21,7 @@ const ListItem = ({ year, name, body, link }) => (
 const Certification = ({ certifications, loading }) => {
   const renderSkeleton = () => {
     let array = [];
-    for (let index = 0; index < 8; index++) {
+    for (let index = 0; index < 2; index++) {
       array.push(
         <ListItem
           key={index}

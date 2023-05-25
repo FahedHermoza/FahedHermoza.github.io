@@ -185,6 +185,18 @@ const config = {
   ], 
   education: [
     {
+      institution: 'EF Education First',
+      degree: 'Course Certificate - English B1.1',
+      from: 'Dec',
+      to: '2022',
+    },
+    {
+      institution: 'EF Education First',
+      degree: 'Certificate of Achievement - A2 EFSET level',
+      from: 'Nov',
+      to: '2022',
+    },
+    {
       institution: 'Universidad Nacional de San Antonio Abad del Cusco',
       degree: 'Engineer in Computer and Systems Engineering',
       from: '2018',

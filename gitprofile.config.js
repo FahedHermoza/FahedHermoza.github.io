@@ -108,28 +108,28 @@ const config = {
       title: 'Telefónica',
       description:
         'This internal sales platform is a digital solution that allows the management of telephony products such as Portability, Plan Change, Equipment Change, Duos, Trios, and others.',
-      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/334800083_1912078639129277_4729320157245154002_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WywAryAHOD8AX8Y32PN&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCo0HgoGeXOciJXc1VYWxy7HqUCXPmSMSkI4ewFawEp0Q&oe=6471B5D5',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Telefonica.png?raw=true',
       link: 'https://www.telefonica.com/es/',
     },
     {
       title: 'Tersus Max',
       description:
         'Comprehensive platform for the management of hardware devices, disinfection devices with Type C ultraviolet radiation (UVC).',
-      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/305618931_763031298485103_8808852869023024564_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TnDOjH1JEcsAX_N7mv9&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCqex4vtpvMfcyWEOCmWcpWOlymwumYwVu9e1W6yJ5vtw&oe=6472F272',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/TersusMax.jpeg?raw=true',
       link: 'https://www.youtube.com/watch?v=fLEQ9DDHzsM',
     },
     {
       title: 'Me Apunto',
       description:
         'Social platform for you to discover the best nightlife centers, cultural activities, and the best promotions in your city.',
-      imageUrl: 'https://scontent.faqp1-1.fna.fbcdn.net/v/t39.30808-6/304793558_490585419736166_3110784093909720694_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=q7LROq7A5vQAX-Nh1kZ&_nc_ht=scontent.faqp1-1.fna&oh=00_AfCqnQlUE10ltgrmK3iZc_lJqQPbaPq0tTfH6ldzpeX2Aw&oe=6472FE82',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/MeApunto.png?raw=true',
       link: 'https://www.youtube.com/watch?v=mEJCUNRvAiA&t=14s',
     },
     {
       title: 'AgrumSoft',
       description:
         'TIC-GPS Biotraceability Platform for agricultural coffee crops and wild resources.',
-      imageUrl: 'https://pbs.twimg.com/profile_images/875467286731137024/Ghu23Tqg_400x400.jpg',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Agrumsoft.jpeg?raw=true',
       link: 'https://www.youtube.com/watch?v=Y-RaFppOp4Y',
     },
   ],

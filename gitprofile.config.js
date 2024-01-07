@@ -53,9 +53,16 @@ const config = {
   experiences: [
     {
       company: 'NTT DATA',
+      position: 'Lead Android Engineer',
+      from: 'Jul 2023',
+      to: 'Present',
+      companyLink: 'https://www.nttdata.com/global/en/about-us',
+    },
+    {
+      company: 'NTT DATA',
       position: 'Android Engineer',
       from: 'May 2021',
-      to: 'Present',
+      to: 'Abr 2023',
       companyLink: 'https://www.nttdata.com/global/en/about-us',
     },
     {
@@ -104,6 +111,13 @@ const config = {
   
    // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+    {
+      title: 'Interbank',
+      description:
+        'Interbank is one of the main financial institutions in Peru and belongs to the Intercorp Financial Services holding.',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Interbank.png?raw=true',
+      link: 'https://play.google.com/store/apps/details?id=pe.com.interbank.mobilebanking',
+    },
     {
       title: 'Telefónica',
       description:

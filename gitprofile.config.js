@@ -135,37 +135,49 @@ const config = {
   ],
    certifications: [
     {
-      name: 'Arquitectura Android en el mundo real',
-      body: 'GDG Cusco',
-      year: 'May 2023',
-      link: 'https://www.facebook.com/fahed19/posts/pfbid026icEiE55pipHx4VKXNmb8d5tpQc3nJcaAPWoQSJHjgErMdkBvMSvE6UcHv9JBYf6l'
+      name: 'Good and bad practices in software development',
+      body: 'GDSC Fest Perú - Ica, DevFest Ica, Interbank, DevFest Cusco',
+      year: 'Sep - Dec, 2023',
+      link: 'https://www.linkedin.com/posts/fahedhermoza_gdg-devfest-devfestica23-activity-7140043490842894336-sPtP?utm_source=share&utm_medium=member_desktop'
     },
     {
-      name: 'Arquitectura basada en Flow',
+      name: 'Experiences of a mobile developer',
+      body: 'Continental University',
+      year: 'Sep 2023',
+      link: 'https://www.linkedin.com/posts/fahedhermoza_desarrollomaejvil-androiddev-compartiendoconocimiento-activity-7108140674637570048-DcI6?utm_source=share&utm_medium=member_desktop'
+    },
+    {
+      name: 'Android architecture in the real world',
+      body: 'GDG Cusco',
+      year: 'May 2023',
+      link: 'https://www.linkedin.com/posts/fahedhermoza_gdgcusco-arquitectura-android-activity-7059934148165017600-8p3X?utm_source=share&utm_medium=member_desktop'
+    },
+    {
+      name: 'Flow-based architecture',
       body: 'Android Dev Perú',
       year: 'May 2021',
       link: 'https://youtu.be/4gctqbyKpNA'
     },
     {
-      name: 'Patrones de Arquitectura en Android',
+      name: 'Architecture Patterns in Android',
       body: 'Smart Cities Perú, GDG Cusco',
       year: 'Feb 2020',
       link: 'https://www.facebook.com/fahed19/posts/pfbid02qbDJMXzU2iSwWxaSupVFijMt3SpDeNzYtybNyaesjPxU6iSmbe6wbPj1G7Afq5czl'
     },
     {
-      name: 'Construyendo base de datos con Room',
+      name: 'Building database with Room',
       body: 'Dev Fest Arequipa',
       year: 'Nov 2019',
       link: 'https://www.facebook.com/fahed19/posts/pfbid0eTzzDPv8emAbEnGnCAHUe3RF2ajLMZxxL7yrkVa1FWYkSASk8Z75WTkjrNmkKpDkl'
     },
     {
-      name: 'Migrando apps Android de Java a Kotlin',
+      name: 'Migrating Android apps from Java to Kotlin',
       body: 'Dev Fest Cusco',
       year: 'Oct 2019',
       link: 'https://www.facebook.com/gdgcusco/photos/a.1207259889309222/2505608196141045/'
     },
     {
-      name: 'Metodología de desarrollo Ágil utilizando Scrum y Kanban',
+      name: 'Agile development methodology using Scrum and Kanban',
       body: 'GDG Cusco',
       year: 'Mar 2019',
       link: 'https://www.facebook.com/gdgcusco/posts/pfbid02JnkhsXgDbecNrva8F4CoD1B4KRYPrj5ABogPf6QUBGeJoYPc3nE28TP1dUd9Fp27l'

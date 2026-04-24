@@ -17,6 +17,8 @@ export default defineConfig({
       includeAssets: ['logo.png'],
       workbox: {
         navigateFallbackAllowlist: [/^\/(?![^/])/],
+        clientsClaim: true,
+        cleanupOutdatedCaches: true,
       },
       manifest: {
         name: 'Portfolio',

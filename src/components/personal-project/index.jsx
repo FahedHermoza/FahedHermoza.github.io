@@ -13,6 +13,7 @@ const displaySection = (personalProjects) => {
 
 const PersonalProject = ({ personalProjects, loading, googleAnalytics }) => {
   const renderSkeleton = () => {
+    if (!personalProjects) return [];
     let array = [];
     for (let index = 0; index < personalProjects.length; index++) {
       array.push(

@@ -15,6 +15,9 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['logo.png'],
+      workbox: {
+        navigateFallbackAllowlist: [/^(?!\/menbresia-ai-landing)/],
+      },
       manifest: {
         name: 'Portfolio',
         short_name: 'Portfolio',

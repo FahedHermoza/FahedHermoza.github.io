@@ -114,6 +114,7 @@ const config = {
       title: 'Menbresia AI',
       description:
         'A mobile platform designed to manage exclusive memberships with benefits at local businesses, geofencing validation, and integrated payments.',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/MenbresiaAI.jpg?raw=true',
       link: 'https://fahedhermoza.github.io/menbresia-ai-landing/',
     },
   ],

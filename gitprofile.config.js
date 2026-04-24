@@ -109,7 +109,16 @@ const config = {
     },
   ],
   
-   // To hide the `My Projects` section, keep it empty.
+  personalProjects: [
+    {
+      title: 'Menbresia AI',
+      description:
+        'A mobile platform designed to manage exclusive memberships with benefits at local businesses, geofencing validation, and integrated payments.',
+      link: 'https://fahedhermoza.github.io/menbresia-ai-landing/',
+    },
+  ],
+
+  // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
       title: 'Interbank',

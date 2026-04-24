@@ -16,7 +16,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['logo.png'],
       workbox: {
-        navigateFallbackAllowlist: [/^(?!\/menbresia-ai-landing)/],
+        navigateFallbackAllowlist: [/^\/(?![^/])/],
       },
       manifest: {
         name: 'Portfolio',

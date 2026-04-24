@@ -99,6 +99,7 @@ const PersonalProject = ({ personalProjects, loading, googleAnalytics }) => {
                         <LazyImage
                           src={item.imageUrl}
                           alt={'thumbnail'}
+                          className="w-full h-full object-cover"
                           placeholder={skeleton({
                             width: 'w-full',
                             height: 'h-full',

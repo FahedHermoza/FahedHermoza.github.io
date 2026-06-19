@@ -117,6 +117,13 @@ const config = {
       imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/MenbresiaAI.jpg?raw=true',
       link: 'https://fahedhermoza.github.io/menbresia-ai-landing/',
     },
+    {
+      title: 'Narraflow-CLI',
+      description:
+        'An AI-powered command-line pipeline that transforms a faceless YouTube channel idea into a complete video production package. Orchestrates Gemini 2.5 Pro for script generation, Google Cloud TTS Neural2 for voiceover synthesis, Imagen 3 for scene imagery, and outputs a Remotion assembly manifest — with persistent episode state and multi-brand context injection throughout.',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/NarraflowCLI.png?raw=true',
+      link: 'https://fahedhermoza.github.io/',
+    },
   ],
 
   // To hide the `My Projects` section, keep it empty.

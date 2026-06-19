@@ -129,6 +129,13 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
+      title: 'Avangrid',
+      description:
+        'A leading energy company in the United States working to meet the growing demand for energy for homes and businesses across the nation.',
+      imageUrl: 'https://github.com/FahedHermoza/FahedHermoza.github.io/blob/main/images/Avangrid.png?raw=true',
+      link: 'https://www.linkedin.com/company/avangrid/posts/?feedView=all',
+    },
+    {
       title: 'Interbank',
       description:
         'Interbank is one of the main financial institutions in Peru and belongs to the Intercorp Financial Services holding.',
